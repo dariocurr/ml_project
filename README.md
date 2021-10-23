@@ -1,6 +1,6 @@
 # mlproject
 
-Playlist completion tool (song suggestion) realized using a Word2vec network
+[Playlist completion tool](https://github.com/dariocurr/ml_project/blob/main/tracks_recommendation.ipynb) (song suggestion) realized using a Word2vec network
 implemented in Python. The data is hosted on the following repository:
 http://github.com/comeetie/deezerplay.git. To know more about word2vec and these
 data please refer to the two following references:
