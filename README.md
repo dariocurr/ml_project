@@ -1,8 +1,8 @@
 # Playlist completion tool
 
 [Playlist completion tool](/tracks_recommendation.ipynb) (song suggestion)
-realized using a Word2vec network implemented in Python. The data is hosted on
-this [repository](http://github.com/comeetie/deezerplay.git).
+realized using a Word2vec network implemented in Python.
+Data is hosted [here](http://github.com/comeetie/deezerplay.git).
 
 To know more about word2vec and these data please refer to the two following
 references:
